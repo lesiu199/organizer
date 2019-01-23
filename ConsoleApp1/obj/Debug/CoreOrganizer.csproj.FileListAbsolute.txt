@@ -1,0 +1,14 @@
+D:\Projects\Cplotki\Organizer\Oraganizer\ConsoleApp1\bin\Debug\CoreOrganizer.exe.config
+D:\Projects\Cplotki\Organizer\Oraganizer\ConsoleApp1\bin\Debug\CoreOrganizer.exe
+D:\Projects\Cplotki\Organizer\Oraganizer\ConsoleApp1\bin\Debug\CoreOrganizer.pdb
+D:\Projects\Cplotki\Organizer\Oraganizer\ConsoleApp1\obj\Debug\CoreOrganizer.csprojResolveAssemblyReference.cache
+D:\Projects\Cplotki\Organizer\Oraganizer\ConsoleApp1\obj\Debug\CoreOrganizer.csproj.CoreCompileInputs.cache
+D:\Projects\Cplotki\Organizer\Oraganizer\ConsoleApp1\obj\Debug\CoreOrganizer.exe
+D:\Projects\Cplotki\Organizer\Oraganizer\ConsoleApp1\obj\Debug\CoreOrganizer.pdb
+E:\Projects\Cplotki\Organizer\Oraganizer\ConsoleApp1\bin\Debug\CoreOrganizer.exe.config
+E:\Projects\Cplotki\Organizer\Oraganizer\ConsoleApp1\bin\Debug\CoreOrganizer.exe
+E:\Projects\Cplotki\Organizer\Oraganizer\ConsoleApp1\bin\Debug\CoreOrganizer.pdb
+E:\Projects\Cplotki\Organizer\Oraganizer\ConsoleApp1\obj\Debug\CoreOrganizer.csprojAssemblyReference.cache
+E:\Projects\Cplotki\Organizer\Oraganizer\ConsoleApp1\obj\Debug\CoreOrganizer.csproj.CoreCompileInputs.cache
+E:\Projects\Cplotki\Organizer\Oraganizer\ConsoleApp1\obj\Debug\CoreOrganizer.exe
+E:\Projects\Cplotki\Organizer\Oraganizer\ConsoleApp1\obj\Debug\CoreOrganizer.pdb
